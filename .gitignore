@@ -1,0 +1,5 @@
+.vscode/
+archive/
+*.pyc
+__pycache__/
+global_nike.csv
