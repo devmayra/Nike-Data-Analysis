@@ -16,7 +16,7 @@ El dataset original pesa más de 25 MB y no puede subirse a GitHub, por lo que s
 global_nike_small.csv
 ```
 
-Es una muestra de 10.000 filas del dataset completo y permite ejecutar el análisis sin problemas. El dataset original puede encontrarse en [Kaggle](https://www.kaggle.com/).
+Es una muestra de 10.000 filas del dataset completo y permite ejecutar el análisis sin problemas. El dataset original puede encontrarse en [Kaggle](https://www.kaggle.com/datasets/bsthere/nike-global-catalogue-2026).
 
 ## Cómo ejecutar
 
